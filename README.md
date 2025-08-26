@@ -1,1 +1,1 @@
-see [garak.ai](https://garak.ai) !
+[github.com/NVIDIA/garak](https://github.com/NVIDIA/garak)
